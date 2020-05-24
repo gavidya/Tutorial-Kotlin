@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstKotlinApp</string>
+    <string name="title">Enter Your Birth Year</string>
+    <string name="submitBtn">Submit</string>
+    <string name="result">0</string>
+    <string name="ageText">Age</string>
+    <string name="ageInput">Enter Birth Year</string>
+</resources>
